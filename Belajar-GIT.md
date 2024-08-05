@@ -17,7 +17,7 @@
 # Langkah-Langkah
 ## Buat Repositori GitHub Baru:
    - Login ke akun GitHub Anda.
-   - Klik tombol "New" untuk membuat repositori baru.
+   - Klik tombol "new" untuk membuat repositori baru.
    - Berikan nama repositori, pilih apakah akan bersifat publik atau privat, lalu klik "Create repository".
    ![](gambar/6.png)
 
