@@ -14,7 +14,7 @@
 5. Setelah buat akun maka akan tampil seperti gambar
 ![](gambar/5.png)
 
-# Langkah - Langkah
+# Langkah-Langkah
 ## Buat Repositori GitHub Baru:
    - Login ke akun GitHub Anda.
    - Klik tombol "New" untuk membuat repositori baru.
