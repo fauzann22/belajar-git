@@ -140,7 +140,7 @@ Perintah `ls` sangat fleksibel dan memiliki banyak opsi lain yang bisa digunakan
 Berikut Hasilnya :
 
 
-![](gambar/13.PNG)
+![](gambar/13.png)
 
 # CD 
 
@@ -156,7 +156,7 @@ Dengan menggunakan perintah `cd` di Git Bash, Kita dapat dengan mudah menavigasi
 Berikut Hasilnya :
 
 
-![](gambar/14.PNG)
+![](gambar/14.png)
 
 ### Langkah-langkah yang Dijalankan
 
@@ -202,7 +202,7 @@ Berikut Hasilnya :
   contohnya:
 
   
-![](gambar/15.PNG)
+![](gambar/15.png)
 
 ### Kesimpulan
 
