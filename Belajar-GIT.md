@@ -1,17 +1,26 @@
 # LOGIN
 1. Buka aplikasi github di browser
+
 ![](gambar/1.png)
 
-3. Lalu lakukan sign up pada github
+2. Lalu lakukan sign up pada github
+
+   
 ![](gambar/2.png)
  
 3. Jika sudah memiliki akun langsung masukkan password dan username yang ada
+
+   
 ![](gambar/3.png)
 
 4. Jika tidak memiliki akun klik tambahkan akun
+
+   
 ![](gambar/4.png)
 
 5. Setelah buat akun maka akan tampil seperti gambar
+
+   
 ![](gambar/5.png)
 
 # Langkah-Langkah
@@ -19,6 +28,8 @@
    - Login ke akun GitHub Anda.
    - Klik tombol "New" untuk membuat repositori baru.
    - Berikan nama repositori, pilih apakah akan bersifat publik atau privat, lalu klik "Create repository".
+
+     
    ![](gambar/6.png)
 
 ## Konfigurasi Git Lokal:
@@ -45,6 +56,8 @@ git config --list
  ~~~
 
  contohnya:
+
+
  ![](gambar/8.png)
  
 ## Hubungkan ke Repositori GitHub:
@@ -56,6 +69,8 @@ git config --list
 
    Ganti username dan nama-repository dengan nama pengguna GitHub Anda dan nama repositori yang Anda buat.kalo dah ada tulisan (master),berarti sudah terhubung ke repositori Githubnya
    contohnya:
+
+   
    ![](gambar/9.png)
    
 ## Tambahkan file ke repositori: 
@@ -81,11 +96,18 @@ contohnya:
 
 Dengan menggunakan `git status`, Kita dapat melihat status dari repository Kita, memahami apa yang telah berubah, dan memutuskan tindakan selanjutnya, seperti menambahkan file ke staging area atau melakukan commit perubahan.
 Berikut Hasilnya :
+
+
 ![](gambar/11.png)
 
 Berikut Hasilnya :
+
+
 ![](gambar/11.png)
+
 # GIT PUSH ORIGIN (MASTER)
+
+
 ![](gambar/12.PNG)
 
 >[!Penjelasan]
@@ -116,6 +138,8 @@ Jika Benar, Langkah Selanjutnya kita menggunakan perintah `git status` membantu 
 Perintah `ls` sangat fleksibel dan memiliki banyak opsi lain yang bisa digunakan untuk mengatur tampilan daftar isi direktori sesuai dengan kebutuhan pengguna.
 
 Berikut Hasilnya :
+
+
 ![](gambar/13.PNG)
 
 # CD 
@@ -130,6 +154,8 @@ Berikut Hasilnya :
 Dengan menggunakan perintah `cd` di Git Bash, Kita dapat dengan mudah menavigasi melalui berbagai direktori dalam sistem file Kita. Ini sangat berguna untuk mengelola proyek, mengakses file, dan menja lankan skrip atau program di lokasi yang berbeda.
 
 Berikut Hasilnya :
+
+
 ![](gambar/14.PNG)
 
 ### Langkah-langkah yang Dijalankan
@@ -174,6 +200,10 @@ Berikut Hasilnya :
 
 - Dari direktori `obsidian`, Kita menggunakan perintah `cd BELAJAR_GITHUB` untuk masuk ke dalam sub-direktori `BELAJAR_GITHUB`.
   contohnya:
-![](gambar/15.PNG)### Kesimpulan
+
+  
+![](gambar/15.PNG)
+
+### Kesimpulan
 
 Kita telah menggunakan serangkaian perintah `cd` di Git Bash untuk menavigasi melalui sistem file dari drive `D:`, kemudian ke direktori `obsidian`, dan akhirnya ke direktori `BELAJAR_GITHUB`. Setiap perintah `cd` digunakan untuk berpindah ke direktori yang lebih spesifik dalam hirarki direktori.
