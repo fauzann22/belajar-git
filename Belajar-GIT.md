@@ -1,4 +1,4 @@
-# login
+# LOGIN
 1. Buka aplikasi github di browser
 ![](gambar/1.png)
 
