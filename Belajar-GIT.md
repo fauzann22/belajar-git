@@ -108,7 +108,7 @@ Berikut Hasilnya :
 # GIT PUSH ORIGIN (MASTER)
 
 
-![](gambar/12.PNG)
+![](gambar/12.png)
 
 >[!Penjelasan]
 >`git push origin master` digunakan dalam Git untuk mengunggah (push) perubahan yang ada di branch `master` pada repository lokal ke branch `master` di remote repository yang disebut `origin`.
